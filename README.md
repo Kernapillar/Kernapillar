@@ -4,7 +4,7 @@ My name is Alex Kern and I am a fullstack engineer with experience in Javascript
 
 During my time at App Academy, I was able to incorporate my interest in music into my projects, most notably in my javascript project, 4 Block Loop. This project utilized the Tone.js library as a stepping stone to incorporate synthesizer and audio playing functionality. I used vanilla javascript to create multiple sequencers (utilizing my new knowledge and understanding of object oriented programming and inheritance) as well as a piano playable using the computer keyboard.
 
-In more recent projects, I worked primarily with React and Redux alongside Ruby on Rails to build out a full stack spotify clone, as well as a MERN stack group project about drawing and artistic collaboration, regardless of artistic ability. Both of these full stack projects are currently hosted on Heroku, available for everyone to check out. 
+In more recent projects, I worked primarily with React and Redux alongside Ruby on Rails to build out a full stack spotify clone, as well as a MERN stack group project about drawing and artistic collaboration, regardless of artistic ability. Both of these full stack projects are currently hosted on Heroku, with links available in my Github repos, or my personal website: https://kernapillar.github.io/Kernapillar_portfolio/
 
 I look forward to building more creative and interesting projects in the coming years, and hope to meet and work with some great people along the way!
 
