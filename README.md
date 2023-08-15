@@ -1,4 +1,4 @@
-### console.log("Hello there!")
+
 
 My name is Alex Kern and I am a fullstack engineer with experience in Javascript, React, Redux, Ruby on Rails, and Python. In my recent projects i have also utilized PostgreSQL, CSS3, HTML5 and AWS for file storage. Before entering the coding world, I earned a B.A. of Psychology from UC Santa Cruz in 2018, and spent some time working at a drug and alcohol rehabilitation center, as well as a few years as an apartment leasing specialist in the Bay Area. While leasing, I met quite a few software engineers and discovered a passion for computer programming after deciding to take a Python course at my local community college. After a few classes I decided to make the jump to enroll in App Academy, learning coding and web development full time. 
 
